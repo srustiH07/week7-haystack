@@ -21,3 +21,6 @@ This repository contains the complete Week 7 internship work.
 - day5-multi-document-rag/ - Day 5 multi-document RAG implementation
 
 Each day contains its original completed internship work.
+## Consolidation Note
+
+This repository consolidates the completed Week 7 internship tasks into a single structured repository while preserving the original work for each day.
