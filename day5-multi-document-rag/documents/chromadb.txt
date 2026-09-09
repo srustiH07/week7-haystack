@@ -1,0 +1,1 @@
+ChromaDB is a vector database designed for storing and searching embeddings. It can be used in Retrieval-Augmented Generation applications to find documents that are semantically similar to a user's query. ChromaDB works well with local AI applications.

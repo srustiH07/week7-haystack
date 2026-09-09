@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) is the field of computer science focused on creating systems that can perform tasks that normally require human intelligence. AI applications include recommendation systems, computer vision, natural language processing, and robotics.

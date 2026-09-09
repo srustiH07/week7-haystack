@@ -1,0 +1,51 @@
+W7D1 - MANUAL RETRIEVAL EVALUATION
+
+Evaluation Scale:
+1 = Incorrect
+2 = Partially relevant
+3 = Highly relevant
+
+Question 1:
+BM25: __
+Dense: __
+
+Question 2:
+BM25: __
+Dense: __
+
+Question 3:
+BM25: __
+Dense: __
+
+Question 4:
+BM25: __
+Dense: __
+
+Question 5:
+BM25: __
+Dense: __
+
+Question 6:
+BM25: __
+Dense: __
+
+Question 7:
+BM25: __
+Dense: __
+
+Question 8:
+BM25: __
+Dense: __
+
+Question 9:
+BM25: __
+Dense: __
+
+Question 10:
+BM25: __
+Dense: __
+
+Overall observation:
+BM25 and Dense Retrieval were evaluated using the same 10 questions.
+The method that returned more relevant documents received higher scores.
+Dense retrieval was compared with BM25 based on semantic relevance.

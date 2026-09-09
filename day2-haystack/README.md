@@ -1,0 +1,1 @@
+# W7D2 - Haystack Retrieval — BM25 & Dense Retrieval

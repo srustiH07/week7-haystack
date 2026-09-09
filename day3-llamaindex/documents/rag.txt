@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation, commonly called RAG, combines information retrieval with large language models. A RAG system first retrieves relevant information from a collection of documents and then provides that information to a language model to generate an answer.
+
+RAG can reduce unsupported information because answers can be grounded in retrieved source documents. Vector databases are commonly used to store and retrieve document embeddings.

@@ -1,0 +1,3 @@
+Machine learning enables computers to learn from data without being explicitly programmed for every task. Supervised learning uses labeled data for training, while unsupervised learning discovers patterns in unlabeled data.
+
+Machine learning applications include image recognition, recommendation systems, fraud detection, predictive maintenance, natural language processing, and medical data analysis.

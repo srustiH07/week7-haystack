@@ -1,0 +1,68 @@
+# W7D2 - BM25 vs Dense Retrieval Manual Evaluation
+
+Rating:
+1 = Incorrect
+2 = Partially relevant
+3 = Highly relevant
+
+Question 1: What is the main topic of the document?
+BM25 rating: 3
+Dense rating: 3
+Comments: Both methods retrieved highly relevant content describing the main topic.
+
+Question 2: What are the important concepts discussed?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval identified the important concepts more accurately, while BM25 returned some partially relevant content.
+
+Question 3: What are the key advantages mentioned?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval provided more semantically relevant results related to the advantages.
+
+Question 4: What problems are discussed in the documents?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval performed better at finding content describing the problems and related discussion.
+
+Question 5: What methods or techniques are explained?
+BM25 rating: 3
+Dense rating: 3
+Comments: Both methods retrieved relevant sections explaining methods or techniques.
+
+Question 6: What are the main applications mentioned?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval provided more relevant results about applications, including semantically related content.
+
+Question 7: What challenges are identified?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval was better at identifying passages related to challenges even when exact keywords were different.
+
+Question 8: What are the important results or findings?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval returned more semantically relevant passages describing results and findings.
+
+Question 9: What recommendations are provided?
+BM25 rating: 2
+Dense rating: 3
+Comments: Dense retrieval provided more relevant passages related to recommendations.
+
+Question 10: What is the overall conclusion?
+BM25 rating: 3
+Dense rating: 3
+Comments: Both retrieval methods returned relevant content related to the overall conclusion.
+
+# Overall Comparison
+
+BM25 performed well when the question contained keywords that directly
+matched the document content.
+
+Dense Retrieval performed better for questions requiring semantic
+similarity, especially when the wording of the question differed from
+the wording used in the documents.
+
+Overall, Dense Retrieval showed better semantic retrieval performance,
+while BM25 remained effective for exact keyword-based searches.

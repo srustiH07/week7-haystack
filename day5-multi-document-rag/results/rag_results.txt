@@ -1,0 +1,31 @@
+W7D5 - MULTI-DOCUMENT RAG RESULTS
+======================================================================
+
+Documents indexed: 5
+Index creation time: 7.38 seconds
+
+Question 1: What is artificial intelligence?
+Answer: Artificial Intelligence refers to a field of computer science that aims to create systems capable of performing tasks typically requiring human intelligence.
+Latency: 35.33 seconds
+Sources: ai.txt, llm.txt, machine_learning.txt
+----------------------------------------------------------------------
+Question 2: What are the main types of machine learning?
+Answer: Machine learning has three primary categories: supervised learning, unsupervised learning, and reinforcement learning. These categories enable computers to learn patterns from data in distinct ways.
+Latency: 20.90 seconds
+Sources: ai.txt, llm.txt, machine_learning.txt
+----------------------------------------------------------------------
+Question 3: What are large language models used for?
+Answer: Large Language Models (LLMs) are primarily utilized in various applications such as question answering, text summarization, translation, coding assistance, and conversational interfaces. These capabilities enable them to understand and generate human-like text, facilitating their widespread use across multiple domains.
+Latency: 24.94 seconds
+Sources: llm.txt, machine_learning.txt, rag.txt
+----------------------------------------------------------------------
+Question 4: What is Retrieval-Augmented Generation?
+Answer: Retrieval-Augmented Generation combines two main techniques to generate answers that are grounded in external information. It uses a system that first retrieves relevant documents from a knowledge base and then utilizes these retrieved documents to inform a language model's generation process. This approach helps create answers that draw upon external information, making the generated responses more accurate and reliable.
+Latency: 37.47 seconds
+Sources: ai.txt, chromadb.txt, rag.txt
+----------------------------------------------------------------------
+Question 5: What is ChromaDB?
+Answer: ChromaDB appears to be designed for storing and searching embeddings. It can aid applications involving Retrieval-Augmented Generation, which integrates information retrieval with text generation, helping to generate answers grounded in external information.
+Latency: 21.86 seconds
+Sources: chromadb.txt, machine_learning.txt, rag.txt
+----------------------------------------------------------------------

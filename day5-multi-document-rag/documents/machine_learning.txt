@@ -1,0 +1,1 @@
+Machine Learning is a branch of Artificial Intelligence that allows computers to learn patterns from data. The main types are supervised learning, unsupervised learning, and reinforcement learning. Machine learning is used for classification, prediction, clustering, and fraud detection.

@@ -1,0 +1,31 @@
+W7D4 - OLLAMA LOCAL LLM INFERENCE
+=================================
+
+Task 1:
+Successfully installed and tested Ollama with llama3.2:3b.
+
+Task 2:
+A Python program was created to call the Ollama API using a custom system prompt.
+Five prompts were tested successfully.
+
+Task 3:
+llama3.2:3b and qwen2.5:3b were tested using the same three questions.
+
+Comparison:
+- llama3.2:3b produced clear and concise responses.
+- qwen2.5:3b provided detailed and informative responses.
+- Both models were able to answer the questions correctly.
+- llama3.2:3b is suitable for lightweight local inference.
+- qwen2.5:3b can provide more detailed responses depending on the question.
+- Response time can vary depending on the model, system memory, and prompt.
+
+Conclusion:
+Both local models performed successfully. The comparison demonstrates
+that Ollama can run LLM inference locally without depending on a cloud API.
+
+Environment:
+- Python 3.12.5
+- Ollama
+- llama3.2:3b
+- qwen2.5:3b
+- Ollama API
